@@ -1,1 +1,0 @@
-<textarea {{ $attributes->class(['form-control']) }}>{{ $value ?: $slot }}</textarea>
